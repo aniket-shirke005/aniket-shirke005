@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aniket Shirke
 =====================================================================================================================================
 
-Software Developer
+Frontend Developer
 ------------------
 
 Front-end Developer with 3+ years exp. ⚡ Skilled in ReactJS, NextJS, Bootstrap, Tailwind. Passionate about building high-performance web apps with clean code.
